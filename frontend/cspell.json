@@ -1,0 +1,40 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "axelkerksiek",
+    "Axel",
+    "Kerksiek",
+    "vue",
+    "pnpm",
+    "vite",
+    "tailwindcss",
+    "semantic-release",
+    "cloudfront",
+    "github",
+    "aws",
+    "s3",
+    "oklch",
+    "fontawesome",
+    "headlessui",
+    "vueuse",
+    "Stargate",
+    "PICO",
+    "xmark",
+    "Xmark",
+    "faXmark"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "dist/**",
+    "pnpm-lock.yaml",
+    "package-lock.json",
+    "*.min.js",
+    "coverage/**",
+    ".git/**",
+    ".vscode/extensions.json",
+    "**/sitemap.xml"
+  ],
+  "flagWords": [],
+  "dictionaries": ["typescript", "node", "npm", "html", "css", "bash"]
+}

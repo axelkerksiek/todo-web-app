@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "backend",
+      "name": "Backend (Rails)"
+    },
+    {
+      "path": "frontend",
+      "name": "Frontend (Vue)"
+    }
+  ],
+  "settings": {
+    // Global settings for the entire workspace
+  }
+}

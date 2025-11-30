@@ -1,0 +1,29 @@
+# Build outputs
+dist
+dist-ssr
+coverage
+
+# Dependencies
+node_modules
+pnpm-lock.yaml
+
+# Generated/compiled files
+*.d.ts
+
+# Config files that might have specific formatting
+.vscode
+.idea
+
+# Lock files (formatted by package managers)
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# Temporary files
+*.local
+.cache
+
+# Markdown files (preserve manual formatting)
+*.md

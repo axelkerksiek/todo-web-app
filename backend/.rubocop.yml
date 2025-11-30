@@ -1,0 +1,6 @@
+# Omakase Ruby styling for Rails
+inherit_gem: { rubocop-rails-omakase: rubocop.yml }
+
+# Custom Rules
+Style/RedundantReturn: # Allow explicit return statements
+  Enabled: false
